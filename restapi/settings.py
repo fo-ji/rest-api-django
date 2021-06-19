@@ -54,7 +54,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'http://localhost:300',
+    'http://localhost:3000',
 ]
 
 ROOT_URLCONF = 'restapi.urls'
